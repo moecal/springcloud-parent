@@ -13,6 +13,7 @@
         <module>springcloud_eureka_client_provider</module>
         <module>springcloud_eureka_client_customer</module>
         <module>springcloud_eureka_client_customer_feign</module>
+        <module>spring_test</module>
     </modules>
 
 
