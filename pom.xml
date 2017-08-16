@@ -14,6 +14,9 @@
         <module>springcloud_eureka_client_customer</module>
         <module>springcloud_eureka_client_customer_feign</module>
         <module>spring_test</module>
+        <module>api_gateway</module>
+        <module>gatewayserviceA</module>
+        <module>gatewayserviceB</module>
     </modules>
 
 
